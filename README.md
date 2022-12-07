@@ -1,1 +1,6 @@
-# Diplom
+# Diplom![Снимок экрана (549)](https://user-images.githubusercontent.com/90610084/206170361-16859f19-dcc1-4925-bdbc-df6568e4ac02.png)
+![Снимок экрана (550)](https://user-images.githubusercontent.com/90610084/206170389-c9c9e87f-850f-4d41-bfd1-f10adfbdbef7.png)
+![Uploading Снимок экрана (554).png…]()
+![Снимок экрана (551)](https://user-images.githubusercontent.com/90610084/206170408-58cf018e-0d4f-46d9-92a5-f72fc5cff82c.png)
+![Снимок экрана (552)](https://user-images.githubusercontent.com/90610084/206170411-e690fc3d-df0a-45e4-8263-cc86ec912db8.png)
+![Снимок экрана (553)](https://user-images.githubusercontent.com/90610084/206170421-beb67a3c-f570-450a-883e-5fbc9e4491d7.png)
